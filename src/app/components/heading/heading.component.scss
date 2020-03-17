@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.wrapper {
+   width: 100%;   
+   border: solid 1px red;
+   margin-top: 1em;
+   padding: 0;
+   
+}
+
+.header-text {
+    background-image: url(../../../assets/images/header-photo.jpg);    
+    background-size: cover;
+    
+    padding: 0;
+    
+}
+
+.header-text p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    text-align: center;
+    color: red;    
+    padding: 0;
+    margin: 0;
+}
+
+.header-slider {
+    border: solid 1px red;  
+    margin-top: 1em;
+      
+}
